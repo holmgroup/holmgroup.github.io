@@ -1,6 +1,6 @@
 ---
 layout: page
-title: People on Earth
+title: People on Arth
 permalink: /people/
 ---
 
