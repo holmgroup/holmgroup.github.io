@@ -16,7 +16,7 @@
 title: Liz Holm's Research Group
 email: eaholm@andrew.cmu.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Holm Research Group site -- under construction 10 March 2017
+  Liz Holm leads a research group in microstructure evolution, grain boundary structure and kinetics, and microstructure informatics in the Carnegie Mellon University Materials Science and Engineering department.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "holmgroup.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  holmgroup
