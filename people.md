@@ -5,7 +5,7 @@ permalink: /people/
 ---
 Under construction -- draft site started on 10 March 2017!
 
-## Current members
+## Current group members
 ### Ph.D. Students
 - Ian Chesser
 - Ankit Gupta
@@ -24,7 +24,7 @@ Under construction -- draft site started on 10 March 2017!
 ### Postdoctoral researchers
 - Brian DeCost, Ph.D.
 
-## Alumni
+## CMU Alumni
 - Philip Goins, Ph.D.
 - Jonathan Humberson, Ph.D.
 
