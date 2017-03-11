@@ -12,6 +12,7 @@ Prior to joining CMU in 2012, Professor Holm spent 20 years as a computational m
 
 ## Education
 Dual PhD Materials Science and Engineering and Scientific Computing, University of Michigan
+
 SM Ceramics, MIT
 
 ## Research
