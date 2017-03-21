@@ -22,7 +22,7 @@ Under construction -- draft site started on 10 March 2017!
 - Andy Jiang
 
 ### Postdoctoral researchers
-- Brian DeCost, Ph.D.
+- [Brian DeCost, Ph.D.](http://www.contrib.andrew.cmu.edu/~bdecost/)
 
 ## CMU Alumni
 - Philip Goins, Ph.D.
