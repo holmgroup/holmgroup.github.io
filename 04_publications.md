@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 # Preprints
+- J. Humberson & E.A. Holm, **The structure and motion of incoherent $$\Sigma3$$ grain boundaries in FCC metals** *Submitted to Acta Mater.* [arxiv.org/abs/1704.03088](http://arxiv.org/abs/1704.03088)
 
 - B.L. DeCost, T. Francis, & E.A. Holm, **Exploring the microstructure manifold: image texture representations applied to ultrahigh carbon steel microstructures.** *Submitted to Acta Mater.* [arxiv.org/abs/1702.01117](http://arxiv.org/abs/1702.01117)
 
