@@ -25,7 +25,7 @@ Under construction -- draft site started on 10 March 2017!
 - [Brian DeCost, Ph.D.](http://www.contrib.andrew.cmu.edu/~bdecost/)
 
 ## CMU Alumni
-- Philip Goins, Ph.D.
+- [Philip Goins, Ph.D.](https://www.researchgate.net/profile/Philip_Goins)
 - Jonathan Humberson, Ph.D.
 
 
