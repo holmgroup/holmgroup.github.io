@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-[Professor Elizabeth A. Holm](http://www.cmu.edu/engineering/materials/people/faculty/bios/holm.html) leads a research group in microstructure evolution, grain boundary structure and kinetics, and microstructure informatics in the [Carnegie Mellon](https://cmu.edu) University [Materials Science and Engineering](http://materials.cmu.edu) department.
+[Professor Elizabeth A. Holm](http://www.cmu.edu/engineering/materials/people/faculty/bios/holm.html) [![orcid.org/0000-0003-3064-5769](/images/id.png)](https://orcid.org/0000-0003-3064-5769) leads a research group in microstructure evolution, grain boundary structure and kinetics, and microstructure informatics in the [Carnegie Mellon](https://cmu.edu) University [Materials Science and Engineering](http://materials.cmu.edu) department.
 
 
 ## Bio
