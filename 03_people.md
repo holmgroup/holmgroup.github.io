@@ -3,7 +3,6 @@ layout: page
 title: People 
 permalink: /people/
 ---
-Under construction -- draft site started on 10 March 2017!
 
 ## Current group members
 ### Ph.D. Students
