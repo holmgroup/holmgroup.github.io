@@ -17,7 +17,7 @@ permalink: /people/
 
 ### Undergraduate students
 - Kate Beittenmiller
-- Toby Francis
+- Toby Francis[![orcid.org/0000-0001-5665-7683](/images/id.png)](https://orcid.org/0000-0001-5665-7683)
 - Andy Jiang
 
 ### Postdoctoral researchers
