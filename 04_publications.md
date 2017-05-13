@@ -9,7 +9,7 @@ permalink: /publications/
 
 - B.L. DeCost, T. Francis, & E.A. Holm, **Exploring the microstructure manifold: image texture representations applied to ultrahigh carbon steel microstructures.** *Submitted to Acta Mater.* [arxiv.org/abs/1702.01117](http://arxiv.org/abs/1702.01117)
 
-- B.L. DeCost, M.D. Hecht, T. Francis, B.A. Webler, Y.N. Picard, & E.A. Holm, **UHCSDB (UltraHigh Carbon Steel micrograph DataBase): tools for exploring large heterogeneous microstructure datasets** *Accepted for publication in IMMI* [preprint](uhcs-data.pdf)
+- B.L. DeCost, M.D. Hecht, T. Francis, B.A. Webler, Y.N. Picard, & E.A. Holm, **UHCSDB (UltraHigh Carbon Steel micrograph DataBase): tools for exploring large heterogeneous microstructure datasets** *Accepted for publication in IMMI* [10.1007/s40192-017-0097-0](http://dx.doi.org/10.1007/s40192-017-0097-0) [preprint](uhcs-data.pdf)
 
 
 # Recent papers at CMU
