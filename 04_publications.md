@@ -9,6 +9,9 @@ permalink: /publications/
 
 - B.L. DeCost, T. Francis, & E.A. Holm, **Exploring the microstructure manifold: image texture representations applied to ultrahigh carbon steel microstructures.** *Submitted to Acta Mater.* [arxiv.org/abs/1702.01117](http://arxiv.org/abs/1702.01117)
 
+- B.L. DeCost, M.D. Hecht, T. Francis, B.A. Webler, Y.N. Picard, & E.A. Holm, **UHCSDB (UltraHigh Carbon Steel micrograph DataBase)** *Accepted for publication in IMMI* [preprint](uhcs-data.pdf)
+
+
 # Recent papers at CMU
 #### 2017
 - J. Humberson & E.A. Holm, **Antithermal mobility in the $$\Sigma3 [111]$$  $$60^\circ$$ $$(11 \; 8 \; 5)$$ grain boundary in nickel: Mechanism and computational considerations.** *Scripta Mater.* 2017 [10.1016/j.scriptamat.2016.10.032](http://dx.doi.org/10.1016/j.scriptamat.2016.10.032)
