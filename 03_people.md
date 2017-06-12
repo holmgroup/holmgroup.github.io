@@ -10,6 +10,7 @@ permalink: /people/
 - Ankit Gupta
 - Andrew Kitahara [![orcid.org/0000-0002-5936-6360](/images/id.png)](https://orcid.org/0000-0002-5936-6360)
 - Ankita Mangal [![orcid.org/0000-0002-3814-1103](/images/id.png)](https://orcid.org/0000-0002-3814-1103)
+- Anna Smith
 
 ### Masters students
 - Junrong Huang
