@@ -6,7 +6,7 @@ permalink: /publications/
 
 # Preprints
 
-- B.L. DeCost, T. Francis, & E.A. Holm, **High throughput quantitative metallography for complex microstructures using deep learning: A case study in ultrahigh carbon steel** [[arXiv:1805.08693](https://arxiv.org/abs/1805.08693)]
+- B.L. DeCost, T. Francis, & E.A. Holm, **High throughput quantitative metallography for complex microstructures using deep learning: A case study in ultrahigh carbon steel** [[arXiv:1805.08693](https://arxiv.org/abs/1805.08693)] [[supplemental](uhcs-segment-supplemental.pdf)] [[dataset](https://hdl.handle.net/11256/964)]
 
 - A. Mangal & E. A. Holm. **A comparative study of feature selection methods for stress hotspot classification in materials.** *accepted in Integrating Materials and Manufacturing Innovation*, 2018 [[arXiv:1804.09604](https://arxiv.org/abs/1804.09604)]
 
