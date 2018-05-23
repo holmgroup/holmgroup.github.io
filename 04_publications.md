@@ -5,15 +5,27 @@ permalink: /publications/
 ---
 
 # Preprints
+
+- B.L. DeCost, T. Francis, & E.A. Holm, **High throughput quantitative metallography for complex microstructures using deep learning: A case study in ultrahigh carbon steel** [[arXiv:1805.08693](https://arxiv.org/abs/1805.08693)]
+
+- A. Mangal & E. A. Holm. **A comparative study of feature selection methods for stress hotspot classification in materials.** *accepted in Integrating Materials and Manufacturing Innovation*, 2018 [[arXiv:1804.09604](https://arxiv.org/abs/1804.09604)]
+
+- A. Mangal & E.A. Holm **Applied Machine Learning to Predict Stress Hotspots II: Hexagonal close packed materials** [[arXiv:1804.05924](https://arxiv.org/abs/1804.05924)]
+
+- I. Chesser & E.A Holm **Understanding the anomalous thermal behavior of sigma 3 grain boundaries in a variety of FCC metals** [[arXiv:1803.02689](https://arxiv.org/abs/1803.02689)]
+
+- A. Mangal & E.A. Holm **Applied Machine Learning to predict stress hotspots I: Face Centered Cubic Materials** [[arXiv:1711.00118](https://arxiv.org/abs/1711.00118]]
+
 - J. Humberson & E.A. Holm, **The structure and motion of incoherent $$\Sigma3$$ grain boundaries in FCC metals** *Submitted to Acta Mater.* [arxiv.org/abs/1704.03088](http://arxiv.org/abs/1704.03088)
-
-- B.L. DeCost, T. Francis, & E.A. Holm, **Exploring the microstructure manifold: image texture representations applied to ultrahigh carbon steel microstructures.** *Accepted for publication in Acta Mater.* [10.1016/j.actamat.2017.05.014](https://dx.doi.org/10.1016/j.actamat.2017.05.014) [[arxiv.org/abs/1702.01117](http://arxiv.org/abs/1702.01117)]
-
-- B.L. DeCost, M.D. Hecht, T. Francis, B.A. Webler, Y.N. Picard, & E.A. Holm, **UHCSDB (UltraHigh Carbon Steel micrograph DataBase): tools for exploring large heterogeneous microstructure datasets** *Accepted for publication in IMMI* [10.1007/s40192-017-0097-0](http://dx.doi.org/10.1007/s40192-017-0097-0) [[preprint](uhcs-data.pdf)]
 
 
 # Recent papers at CMU
 #### 2017
+
+- B.L. DeCost, T. Francis, & E.A. Holm, **Exploring the microstructure manifold: image texture representations applied to ultrahigh carbon steel microstructures.** *Acta Mater.* [10.1016/j.actamat.2017.05.014](https://dx.doi.org/10.1016/j.actamat.2017.05.014) [[preprint](http://arxiv.org/abs/1702.01117)]
+
+- B.L. DeCost, M.D. Hecht, T. Francis, B.A. Webler, Y.N. Picard, & E.A. Holm, **UHCSDB (UltraHigh Carbon Steel micrograph DataBase): tools for exploring large heterogeneous microstructure datasets** *IMMI* [10.1007/s40192-017-0097-0](http://dx.doi.org/10.1007/s40192-017-0097-0) [[preprint](uhcs-data.pdf)]
+
 - J. Humberson & E.A. Holm, **Antithermal mobility in the $$\Sigma3 [111]$$  $$60^\circ$$ $$(11 \; 8 \; 5)$$ grain boundary in nickel: Mechanism and computational considerations.** *Scripta Mater.* 2017 [10.1016/j.scriptamat.2016.10.032](http://dx.doi.org/10.1016/j.scriptamat.2016.10.032)
 
 - B. L. DeCost, H. Jain, A.D. Rollett, & E.A. Holm **Computer vision and machine learning for autonomous characterization of AM powder feedstocks.** *JOM* (Mar. 2017), pp. 1–10. [10.1007/s11837-016-2226-1](http://dx.doi.org/10.1007/s11837-016-2226-1)
