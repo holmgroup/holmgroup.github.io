@@ -14,7 +14,7 @@ permalink: /publications/
 
 - I. Chesser & E.A Holm **Understanding the anomalous thermal behavior of sigma 3 grain boundaries in a variety of FCC metals** [[arXiv:1803.02689](https://arxiv.org/abs/1803.02689)]
 
-- A. Mangal & E.A. Holm **Applied Machine Learning to predict stress hotspots I: Face Centered Cubic Materials** [[arXiv:1711.00118](https://arxiv.org/abs/1711.00118]]
+- A. Mangal & E.A. Holm **Applied Machine Learning to predict stress hotspots I: Face Centered Cubic Materials** [[arXiv:1711.00118](https://arxiv.org/abs/1711.00118)]
 
 - J. Humberson & E.A. Holm, **The structure and motion of incoherent $$\Sigma3$$ grain boundaries in FCC metals** *Submitted to Acta Mater.* [arxiv.org/abs/1704.03088](http://arxiv.org/abs/1704.03088)
 
