@@ -14,19 +14,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Liz Holm's Research Group
-email: eaholm@andrew.cmu.edu
+email: eaholm@umich.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Liz Holm leads a computational research group focused on atomistic and mesoscale modeling and informatics in the CMU Materials Science and Engineering department.
+  Liz Holm leads a computational research group focused on atomistic and mesoscale modeling and informatics in the UMich Materials Science and Engineering department.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "holmgroup.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  holmgroup
-cmu_url: http://www.cmu.edu/engineering/materials/people/faculty/bios/holm.html
+cmu_url: https://mse.engin.umich.edu/people/eaholm
 author: "Professor Elizabeth A. Holm"
 
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
