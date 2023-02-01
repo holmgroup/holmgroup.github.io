@@ -1,8 +1,14 @@
+<!--Default layout for all pages, loads appropriate header, footer, scripts, stylesheets, etc -->
+
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+
+  <head>
   {% include head.html %}
+  {% include bibli.html %}
+  </head>
 
   <body>
 
@@ -15,6 +21,8 @@
     </main>
 
     {% include footer.html %}
+    {% include scripts/jquery.html %}
+    {% include scripts/misc.html %}
 
   </body>
 

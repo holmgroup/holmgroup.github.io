@@ -1,0 +1,189 @@
+/*******************************************************************
+* custom styles, currently only used for the publications class
+* Mostly from Jekyll theme -> https://github.com/alshedivat/al-folio
+******************************************************************/
+
+// Publications
+
+.publications {
+  margin-top: 2rem;
+  h1 {
+    color: red;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+
+  h2 {
+    margin-bottom: 1rem;
+    span {
+      font-size: 1.5rem;
+    }
+  }
+  h2.year {
+    color: $black-color;
+    border-top: 1px solid black;
+    padding-top: 1rem;
+    margin-top: 2rem;
+    margin-bottom: -2rem;
+    text-align: right;
+  }
+  ol.bibliography {
+    list-style: none;
+    padding: 0;
+    margin-top: 0;
+    margin-left: 0;
+
+
+    li {
+
+      img {
+        max-height: 170px;
+      }
+
+      margin-bottom: 1rem;
+      margin-left: 0;
+      padding-keft: 0;
+      .preview {
+        width: 50%;
+        min-width: 840px;
+        max-width: 100px;
+      }
+      .row {
+        height: auto;
+        overflow: hidden;
+      }
+
+      .container {
+        height: auto;
+        overflow: hidden;
+      }
+
+      .right {
+        width: 550px;
+        float: right;
+
+        .rightx {
+          width: 500px;
+          float: left;
+        }
+      }
+
+      .left {
+        float: left;
+        width: 170px;
+        overflow: hidden;
+      }
+
+
+      .abbr {
+        height: 2rem;
+        margin-bottom: 0.5rem;
+        abbr {
+          display: inline-block;
+          background-color: #FF3636;
+          padding-left: 1rem;
+          padding-right: 1rem;
+          a {
+            color: $red-color;
+            &:hover {
+              text-decoration: none;
+            }
+          }
+        }
+        .award {
+          color: var(--global-theme-color) !important;
+          border: 1px solid var(--global-theme-color);
+        }
+      }
+      .title {
+        font-weight: bolder;
+      }
+      .author {
+        a {
+          border-bottom: 10px dashed #FF3636;
+          &:hover {
+              border-bottom-style: solid;
+              text-decoration: none;
+          }
+        }
+        > em {
+          border-bottom: 1px solid;
+          font-style: normal;
+        }
+        > span.more-authors {
+          color: #FF3636;
+          border-bottom: 1px dashed #FF3636;
+          cursor: pointer;
+          &:hover {
+              color: $black-color;
+              border-bottom: 1px dashed #FF3636;
+          }
+        }
+      }
+      .links {
+        a.btn {
+          color: black;
+          border: 1px solid black;
+          padding-left: 1rem;
+          padding-right: 1rem;
+          padding-top: 0.15rem;
+          padding-bottom: 0.15rem;
+          &:hover {
+            color: #FF3636;
+            border-color: #FF3636;
+          }
+        }
+      }
+      .badges {
+        span {
+          display: inline-block;
+          color: $black-color;
+          height: 100%;
+          padding-left: 0.5rem;
+          vertical-align: middle;
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+      }
+      .hidden {
+        font-size: 0.875rem;
+        max-height: 0px;
+        overflow: hidden;
+        text-align: justify;
+        transition-property: 0.15s ease;
+        -moz-transition: 0.15s ease;
+        -ms-transition: 0.15s ease;
+        -o-transition: 0.15s ease;
+        transition: all 0.15s ease;
+
+        p {
+          line-height: 1.4em;
+          margin: 10px;
+        }
+        pre {
+          font-size: 1em;
+          line-height: 1.4em;
+          padding: 10px;
+        }
+      }
+      .hidden.open {
+        max-height: 100em;
+        transition-property: 0.15s ease;
+        -moz-transition: 0.15s ease;
+        -ms-transition: 0.15s ease;
+        -o-transition: 0.15s ease;
+        transition: all 0.15s ease;
+      }
+      div.abstract.hidden {
+        border: dashed 1px var(--global-bg-color);
+      }
+      div.abstract.hidden.open {
+        border-color: var(--global-text-color);
+      }
+    }
+  }
+}
+
