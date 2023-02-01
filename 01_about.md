@@ -1,14 +1,14 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-[Professor Elizabeth A. Holm](http://www.cmu.edu/engineering/materials/people/faculty/bios/holm.html) [![orcid.org/0000-0003-3064-5769](/images/id.png)](https://orcid.org/0000-0003-3064-5769) leads a research group in microstructure evolution, grain boundary structure and kinetics, and microstructure informatics in the [Carnegie Mellon University](https://cmu.edu) Department of  [Materials Science and Engineering](http://materials.cmu.edu).
+[Professor and Department Chair Elizabeth A. Holm](https://mse.engin.umich.edu/people/eaholm) [![orcid.org/0000-0003-3064-5769](/images/id.png)](https://orcid.org/0000-0003-3064-5769) leads a research group in microstructure evolution, grain boundary structure and kinetics, and microstructure informatics in the [University of Michigan](https://umich.edu) Department of  [Materials Science and Engineering](https://mse.engin.umich.edu/).
 
 
 ## Bio
-Prior to joining CMU in 2012, Professor Holm spent 20 years as a computational materials scientist at Sandia National Laboratories, working on simulations to improve processes for lighting manufacture, microcircuit aging and reliability, and the processing and welding of advanced materials. Prof. Holm obtained her B.S.E in Materials Science and Engineering from the University of Michigan, S.M in Ceramics from MIT, and dual Ph.D. in Materials Science and Engineering and Scientific Computing from the University of Michigan. Active in professional societies, Prof. Holm has received several honors and awards, is a Fellow of ASM International, 2013 President of The Minerals, Metals, and Materials Society, an organizer of several international conferences, and has been a member of the National Materials Advisory Board. Prof. Holm has authored or co- authored over 110 publications.
+Prior to joining U-M, Holmes spent ten years at Carnegie Mellon University, most recently as a professor of materials science and engineering. She also spent 20 years as a computational materials scientist at Sandia National Laboratories, Albuquerque, New Mexico, working on computer simulations of microstructure evolution, microcircuit aging and reliability, and the processing and welding of advanced materials. Active in a variety of professional societies, Holm is president elect designate and an honorary member of The American Institute of Mining, Metallurgical and Petroleum; a fellow of ASM International; a fellow and former president of The Minerals, Metals, and Materials Society, where she launched the TMS Summit on Creating and Sustaining Diversity; an organizer of several international conferences; and a former member of the National Materials Advisory Board. She has authored or co-authored over 160 publications. 
 
 ## Education
 Dual PhD Materials Science and Engineering and Scientific Computing \\

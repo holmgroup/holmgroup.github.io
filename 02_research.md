@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: Research
 permalink: /research/
 ---
-## Physical Simulation Projects
-### Atomistic Simulation of Grain Boundary Migration
+# Physical Simulation Projects
+## Atomistic Simulation of Grain Boundary Migration
 ![]({{ "/images/atomistic.png" }})
 <br>
 <br>
@@ -12,7 +12,7 @@ Identical crystallographically defined grain boundaries in different FCC metals 
 <br>
 <br>
 
-### Carbon Nanotube Modeling
+## Carbon Nanotube Modeling
 ![]({{ "/images/swcnt_aerogel.png" }})
 <br>
 <br>
@@ -20,7 +20,7 @@ Single Wall Carbon Nanotubes (SWCNT) form random networks in aerogels that are g
 <br>
 <br>
 
-### Multiphysics Microstructural Evolution Modeling
+## Multiphysics Microstructural Evolution Modeling
 ![]({{ "/images/Multiphysics.png" }})
 <br>
 <br>
@@ -29,9 +29,9 @@ Single Wall Carbon Nanotubes (SWCNT) form random networks in aerogels that are g
 <br>
 
 *****
-## Materials Informatics
+# Materials Informatics
 
-### Machine Learning Approaches for Materials Data Sciences
+## Machine Learning Approaches for Materials Data Sciences
 ![]({{ "/images/mds.png" }})
 <br>
 <br>
@@ -39,8 +39,8 @@ Words words words.
 <br>
 <br>
 
-### Computer Vision for Microstructure Science
-#### Automatic Segmentation
+## Computer Vision for Microstructure Science
+### Automatic Segmentation
 ![]({{ "/images/segmentation_01.png" }})
 <br>
 <br>
@@ -54,7 +54,7 @@ After training, a computer can perform automatic segmentation of micrographs, sa
 <br>
 <br>
 
-#### Fracture Surface Challenge
+### Fracture Surface Challenge
 Here's a fun challenge! These six images below come two distinct classes. Try to group these images into those two classes.
 <br>
 ![]({{ "/images/challenge_01.png" }})
