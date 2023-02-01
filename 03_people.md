@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 title: People
 permalink: /people/
 ---
-
-## Current group 
 
 ### Principal Investigator
 - [Elizabeth A. Holm](https://mse.engin.umich.edu/people/eaholm) [![orcid.org/0000-0003-3064-5769](/images/id.png)](https://orcid.org/0000-0003-3064-5769)
